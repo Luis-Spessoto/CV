@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(240, 253, 250);
+    padding: 12px;
+}
+#nome{
+    font-weight: bolder;
+    font-style: unset;
+    text-align: center;
+    text-decoration: underline;
+}
+.tiny5-regular {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.danfo-tst{
+    font-family: "Danfo", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "ELSH" 0;
+}
+.orbitron-tst{
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400 ;
+    font-style: normal;
+}
+a[href="https://github.com/Luis-Spessoto"]{
+    text-shadow: 2px 2px 8px purple;
+}
+img[src="figs/perfil.png"]{
+    display: block;
+    margin: auto;
+}
+#fig{
+    text-align: center;
+}
+*{
+    text-align: left;
+}
+#itens{
+    list-style-type: none;
+}
+h2{
+    background-color: rgb(213, 235, 250);
+}
+#res{
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+a:hover{
+    color: red;
+}
+footer{
+    background-color: rgb(213, 235, 250);
+}
+#foot{
+    text-align: center;
+}
+img[src="figs/ods.png"]{
+    border-color: black;
+    border-radius: 8px;
+    border-style: outset;
+}
