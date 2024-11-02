@@ -7,8 +7,6 @@ body{
     font-style: unset;
     text-align: center;
     text-decoration: underline;
-    border-color: black;
-    border-style: solid;
 }
 .tiny5-regular {
     font-family: "Tiny5", sans-serif;
@@ -32,6 +30,8 @@ a[href="https://github.com/Luis-Spessoto"]{
 img[src="figs/perfil.png"]{
     display: block;
     margin: auto;
+    border-color: black;
+    border-style: solid;
 }
 #fig{
     text-align: center;
